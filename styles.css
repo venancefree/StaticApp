@@ -4,3 +4,6 @@ body{
 h3{
     color: blue;
 }
+p{
+    line-height: 1.5;
+}
